@@ -1,0 +1,17 @@
+name: "Modelos Lineales Generalizados"
+output_dir: "docs"
+navbar:
+  title: "Modelos Estadísticos para la toma de decisiones"
+  left:
+    - text: "Modelo de DE"
+      menu:
+        - text: "Modelo de Diseño de Experimentos"
+          href: recurso000.html
+    - text: "Modelo Ligit"
+      menu:
+        - text: "Modelo Logit"
+          href: recurso000.html
+       
+output:
+  html_document:
+    css: style.css
